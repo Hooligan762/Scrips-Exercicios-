@@ -1,13 +1,13 @@
 
 #           							**CodeSoft**  [![N|Solid](https://www.dcvelocity.com/ext/resources/images/industry_pressroom/uploaded/archives/t/te/teklynx-codesoft-logo.jpg?t=1582260646&width=128)](https://www.teklynx.com/pt-BR/products/label-design-solutions/codesoft)
-## O que é o ```CodeSoft?```
+### O que é o ```CodeSoft?```
 >* *O **CODESOFT** é basicamente um software de etiquetas de código de barras, utilizado para criar e imprimir etiquetas em ambientes corporativos. Com recursos avançados, ele oferece flexibilidade, poder e suporte incomparáveis para atender às necessidades complexas de design de etiquetas e integração.*
 
 
 ---------------
 
 
-## Configurando o ```CodeSoft```
+### Configurando o ```CodeSoft```
 
 1- Faça o Download do software gerador de código de barras CODESOFT no site da TEKLYNX. Você pode testá-lo gratuitamente por 30 dias 
 
@@ -155,7 +155,7 @@ Selecione o modelo 2/5 INTERLEAVED. **Traduzindo 2 a 5 Intercado**.
 ![image](https://user-images.githubusercontent.com/33797417/227411130-866999bf-7f68-4b5d-98a1-a399d38a4902.png)
 
 --------------------
-## Imprimindo no ```CodeSoft```
+### Imprimindo no ```CodeSoft```
 
 >1 - Clique na opção **Simples** até parecer está janela, em sequencia vá em **Base de Dados** e na Opção **Registros** selecione a opção **Todos os registros** e irá imprimir todos os registros de seu **Banco de Dados**
 -------------------
