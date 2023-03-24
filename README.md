@@ -107,7 +107,7 @@ podendo prencher o campo **NOME** como será chamada a sua base de dados importa
 
 16- Deixe o modo de criação **Padrão**, selecione a tabela que está escrita **Planilha1$**
 
-![image](https://user-images.githubusercontent.com/33797417/227405831-c005b86a-1df9-47ce-bd34-fb6078624993.png)
+![image](https://user-images.githubusercontent.com/33797417/227658843-9442eb4b-3424-4959-b68f-17c5b5f14239.png)
 
 --------------------
 
@@ -121,9 +121,9 @@ podendo prencher o campo **NOME** como será chamada a sua base de dados importa
 --------------------
 
 
-18- Com a base de dados ja importada, observe que já apresentou a tabela **Aluno** e **CPF**
+18- Com a base de dados ja importada, observe que já apresentou a tabela **Aluno** , **CPF** e o **Curso_gerencial**
 
-![image](https://user-images.githubusercontent.com/33797417/227407166-35d22727-3322-4d73-9bfd-912b131453ce.png)
+![image](https://user-images.githubusercontent.com/33797417/227658900-d4436e99-3cf3-445c-8de5-578e8466f3f9.png)
 
 
 --------------------
@@ -161,7 +161,7 @@ Selecione o modelo 2/5 INTERLEAVED. **Traduzindo 2 a 5 Intercado**.
 -------------------
 ![image](https://user-images.githubusercontent.com/33797417/227412030-fac6325e-3a80-4f3a-8ff7-0e72b7fd1e26.png)
 -------------------
-![image](https://user-images.githubusercontent.com/33797417/227412328-4dad384d-f8fb-4c65-9cbe-74d20408ad27.png)
+![image](https://user-images.githubusercontent.com/33797417/227659164-f7e5799e-9e9c-40c5-96db-1a18831715c2.png)
 
 
 # FIM
